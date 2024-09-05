@@ -66,7 +66,7 @@ button {
 #container img {
   border-radius: 10px 0px 0px 10px;
 }
-#container .text_cont {
+#container aside {
   display: flex;
   justify-content: space-between;
   padding: 20px;
